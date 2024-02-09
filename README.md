@@ -1,5 +1,7 @@
-# ChatGPT with websites
+# Description
  A ChatGPT that search through a provided website for most-updated information
+
+
 
 # Setup
  ## Create a python virtual enviromnent
